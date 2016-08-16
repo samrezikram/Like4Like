@@ -1,0 +1,22 @@
+PODS:
+  - 1PasswordExtension (1.8.2)
+  - BetterSegmentedControl (0.4)
+  - KRLCollectionViewGridLayout (0.4.1)
+  - LFLoginController (0.2.3):
+    - 1PasswordExtension (= 1.8.2)
+  - SVProgressHUD (2.0.3)
+
+DEPENDENCIES:
+  - BetterSegmentedControl (~> 0.4)
+  - KRLCollectionViewGridLayout (~> 0.4)
+  - LFLoginController (~> 0.2.3)
+  - SVProgressHUD (~> 2.0)
+
+SPEC CHECKSUMS:
+  1PasswordExtension: 303f2b7bbf6dc19ede3090bd6b5987530648d687
+  BetterSegmentedControl: 982368e9cae749f28b7a2e969a37dcb73c375400
+  KRLCollectionViewGridLayout: 6363dc7e3d91cf1f97e19ed20846764566659596
+  LFLoginController: d925f6c8dd83b21c61f2b5816d3a0ea6dfe3a711
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+
+COCOAPODS: 0.39.0
